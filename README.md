@@ -7,3 +7,5 @@ The dataset has information about important economic and development metrics rel
 Variable Description:
 Birth Rate, Business tax, CO2emissions, Country, Days to start business, Ease of business, energy usage, GDP, healthexp%GDP, healthexp/capita, hours to do tax, infant mortality, internet usage, lending rate, life expectancy female, etc.
 
+Deployment:
+The deployement is done using Streamlit
